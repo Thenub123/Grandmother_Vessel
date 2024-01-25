@@ -4,10 +4,10 @@ You need to get to the top of the tower to save the statue of yourself.
 
 ## Control
 
-Move - WASD
-Jump - Space
-Dash - Shift
-Select - Space
+- Move - WASD
+- Jump - Space
+- Dash - Shift
+- Select - Space
 
 ## Movement technique
 
