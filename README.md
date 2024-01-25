@@ -1,37 +1,20 @@
-# Foobar
+# Grandmother Vessel
 
-Foobar is a Python library for dealing with word pluralization.
+You need to get to the top of the tower to save the statue of yourself.
 
 ## Installation
 
 Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
 
-```bash
-pip install foobar
-```
+## Control
 
-## Usage
+Move - WASD
+Jump - Space
+Dash - Shift
+Select - Space
 
-```python
-import foobar
+## Movement technique
 
-# returns 'words'
-foobar.pluralize('word')
-
-# returns 'geese'
-foobar.pluralize('goose')
-
-# returns 'phenomenon'
-foobar.singularize('phenomena')
-```
-
-## Contributing
-
-Pull requests are welcome. For major changes, please open an issue first
-to discuss what you would like to change.
-
-Please make sure to update tests as appropriate.
-
-## License
-
-[MIT](https://choosealicense.com/licenses/mit/)
+- Dash into orbs to get a speed and height boost
+- You can wall jump back onto the wall by doing a smaller jump
+- You can change how high you go when you jump by holding Space
