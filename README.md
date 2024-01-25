@@ -2,10 +2,6 @@
 
 You need to get to the top of the tower to save the statue of yourself.
 
-## Installation
-
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
-
 ## Control
 
 Move - WASD
